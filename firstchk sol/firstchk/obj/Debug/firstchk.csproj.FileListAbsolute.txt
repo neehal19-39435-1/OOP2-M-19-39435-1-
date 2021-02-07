@@ -1,0 +1,6 @@
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\bin\Debug\firstchk.exe.config
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\bin\Debug\firstchk.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\bin\Debug\firstchk.pdb
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\obj\Debug\firstchk.csprojResolveAssemblyReference.cache
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\obj\Debug\firstchk.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\firstchk sol\firstchk\obj\Debug\firstchk.pdb

@@ -1,0 +1,6 @@
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\bin\Debug\Basic Operations.exe.config
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\bin\Debug\Basic Operations.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\bin\Debug\Basic Operations.pdb
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\obj\Debug\Basic Operations.csprojResolveAssemblyReference.cache
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\obj\Debug\Basic Operations.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\Basic Operations sol\Basic Operations\obj\Debug\Basic Operations.pdb
