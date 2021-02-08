@@ -1,0 +1,6 @@
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\bin\Debug\LabTask1 sum.exe.config
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\obj\Debug\LabTask1 sum.csprojResolveAssemblyReference.cache
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\bin\Debug\LabTask1 sum.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\bin\Debug\LabTask1 sum.pdb
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\obj\Debug\LabTask1 sum.exe
+G:\OneDrive - American International University-Bangladesh\C Sharp\LabTask1 sum\LabTask1 sum\obj\Debug\LabTask1 sum.pdb
