@@ -15,13 +15,18 @@ namespace LabT3
             obj1.ShowInfo();
             Console.WriteLine(" ");
             Console.WriteLine("TRIANGLE INFO:");
-            Triangle obj2 = new Triangle(30, 20, 10);
+            Triangle obj2 = new Triangle(20, 20, 20);
             obj2.ShowInfo();
             obj2.TestTriangle();
             Console.WriteLine(" ");
             Console.WriteLine("COURSE INFO:");
             Course obj3 = new Course("OOP2", "CSC3115", 3);
             obj3.ShowInfo1();
+            Console.WriteLine(" ");
+            Console.WriteLine("ACCOUNT INFO:");
+            Account obj4 = new Account("NEEHAL", "28089", 100000);
+            obj4.Deposit(1000);
+            obj4.Withdraw(1000);
             
         }
     }
