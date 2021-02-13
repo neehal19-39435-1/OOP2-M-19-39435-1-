@@ -11,14 +11,24 @@ namespace LabT3
         string CourseName, CourseCode;
         int CourseCredit;
 
-        public Course(string CourseName, string CourseCode, int CourseCredit)
+        public string coursename
         {
-            this.CourseName = CourseName;
-            this.CourseCode = CourseCode;
-            this.CourseCredit = CourseCredit;
-           
+            get { return CourseName; }
+            set { CourseName = value; }
         }
-        public void ShowInfo1()
+
+        public string coursecode
+        {
+            get { return CourseCode; }
+            set { CourseCode = value; }
+        }
+
+        public int coursecredit
+        {
+            get { return CourseCredit; }
+            set { CourseCredit = value; }
+        }
+        public void ShowInfo()
         {
             Console.WriteLine("Course Name:" + CourseName);
             Console.WriteLine("Course Code:" + CourseCode);

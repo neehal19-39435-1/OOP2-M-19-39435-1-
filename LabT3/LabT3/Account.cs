@@ -8,16 +8,28 @@ namespace LabT3
 {
     class Account
     {
-        string AccName, AccId;
-        int balance;
+        private string AccName, AccId;
+        private int balance;
         
 
-        public Account(string AccName , string AccId, int balance )
-        {       
-            this.AccName = AccName;
-            this.AccId = AccId;
-            this.balance = balance;
+        public string Accname
+        {
+            get { return AccName; }
+            set { AccName = value; }
         }
+
+        public string AccID
+        {
+            get { return AccId; }
+            set { AccId = value; }
+        }
+
+        public int Balance
+        {
+            get { return balance; }
+            set { balance = value; }
+        }
+
         public void Deposit(int amount)
         {
             if (amount > 0)

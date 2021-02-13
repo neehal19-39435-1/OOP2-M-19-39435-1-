@@ -8,13 +8,29 @@ namespace LabT3
 {
     public class Triangle
     {
-        public int x, y, z;
-        public Triangle(int x , int y, int z)
+        private int x;
+        private int y;
+        private int z;
+
+        public int X
         {
-            this.x = x;
-            this.y = y;
-            this.z = z;
+            get { return x; }
+            set {x =  value;}
         }
+
+        public int Y
+        {
+            get { return y; }
+            set { y = value; }
+        }
+
+        public int Z
+        {
+            get { return z; }
+            set { z = value; }
+        }
+
+       
 
         public void ShowInfo()
         {

@@ -8,15 +8,31 @@ namespace LabT3
 {
     public class Student
     {
-        public String name, id, department;
-        public float cgpa;
+        private string name, id, department;
+        private float cgpa;
 
-        public Student(string name, string id, string department, float cgpa)
+        public string Name
         {
-           this.name= name;
-           this.id= id;
-           this.department= department;
-           this.cgpa= cgpa;
+            get { return name; }
+            set { name = value;}
+        }
+
+        public string ID
+        {
+            get { return id; }
+            set { id = value; }
+        }
+
+        public string Dept
+        {
+            get { return department; }
+            set { department = value; }
+        }
+
+        public float CGPA
+        {
+            get { return cgpa; }
+            set { cgpa = value; }
         }
         public void ShowInfo()
         {
